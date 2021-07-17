@@ -1,7 +1,7 @@
 # Sequence Tagger
 
 ## Task Description
-Task is to implement a simple sequence tagger using word embeddings for named entity recognition. Model Architecture is a bidirectional LSTM with a single 100-dimenstional hidden layer. The word embeddings are pretrained which has the dimension of 50. Macro-averaged F1-Score is the evaluation that has been used to evaluate the performance of the model. The dataset is highly dominated a single label, so accuracy is not an appropriate metric for evaluation.
+Task is to implement a simple sequence tagger using word embeddings for named entity recognition. Model Architecture is a bidirectional LSTM with a single 100-dimenstional hidden layer. The word embeddings are pretrained which has the dimension of 50. Macro-averaged F1-Score is the evaluation that has been used to evaluate the performance of the model. The dataset is highly dominated by a single label, so accuracy is not an appropriate metric for evaluation.
 
 <b>Hyperparameters:</b></br>
 Loss Function: Cross-Entropy Loss</br>
