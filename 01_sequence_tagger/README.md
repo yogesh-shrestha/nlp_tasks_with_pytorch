@@ -16,7 +16,7 @@ Macro-Averaged F1-Score was used to measure the performance of the model on vali
 
 <img src='img/Macro-averaged-F1-Score.png'/>
 
-## Performance of Model of Test Set
+## Performance of Model on Test Set
 
 Micro-averaged F1-Score: 0.818995
 
